@@ -1,0 +1,106 @@
+{
+  "products": [
+    {
+      "name": "Caneca Bonita",
+      "price": "30",
+      "id": 1,
+      "category": "Utensílios"
+    },
+    {
+      "name": "Caderno Universitário",
+      "price": 20,
+      "id": 2,
+      "category": "Papelaria"
+    },
+    {
+      "name": "Caixa de Lapis de Cor",
+      "price": "10.99",
+      "id": 3,
+      "category": "Papelaria"
+    },
+    {
+      "name": "Mochila Escolar",
+      "price": 80,
+      "id": 4,
+      "category": "Acessórios"
+    },
+    {
+      "name": "Calculadora Científica",
+      "price": 12,
+      "id": 5,
+      "category": "Eletrônicos"
+    },
+    {
+      "name": "Livro de Ficção",
+      "price": 80,
+      "id": 6,
+      "category": "Livros"
+    },
+    {
+      "name": "Mouse sem Fio",
+      "price": 120,
+      "id": 7,
+      "category": "Informática"
+    },
+    {
+      "name": "Teclado Mecânico Gamer",
+      "price": 300,
+      "id": 8,
+      "category": "Informática"
+    },
+    {
+      "name": "Fone de Ouvido Bluetooth",
+      "price": 400,
+      "id": 9,
+      "category": "Eletrônicos"
+    },
+    {
+      "name": "Carregador Portátil",
+      "price": 100,
+      "id": 10,
+      "category": "Eletrônicos"
+    },
+    {
+      "name": "Cadeira de Escritório",
+      "price": 2500,
+      "id": 11,
+      "category": "Móveis"
+    },
+    {
+      "name": "Luminária de Mesa",
+      "price": 40,
+      "id": 12,
+      "category": "Decoração"
+    },
+    {
+      "name": "Panela de Pressão",
+      "price": 80,
+      "id": 13,
+      "category": "Cozinha"
+    },
+    {
+      "name": "Ventilador de Teto",
+      "price": 120,
+      "id": 14,
+      "category": "Eletrodomésticos"
+    },
+    {
+      "name": "Chave de Fenda",
+      "price": 30,
+      "id": 15,
+      "category": "Ferramentas"
+    },
+    {
+      "name": "Lanterna LED",
+      "price": 10,
+      "id": 16,
+      "category": "Ferramentas"
+    },
+    {
+      "name": "Tênis Esportivo",
+      "price": 400,
+      "id": 17,
+      "category": "Esportes"
+    }
+  ]
+}
